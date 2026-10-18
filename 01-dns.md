@@ -1,4 +1,4 @@
-# Design
+# SynQX Homelab POC — DNS Design Model & Validation
 
 ## Domain model
 
