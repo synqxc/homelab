@@ -1,4 +1,4 @@
-# Synqx Homelab POC
+# SynQX Homelab POC
 
 A documented, internal-first Proxmox private-cloud proof of concept built to explore infrastructure, networking, storage, DNS, and secure remote access.
 
